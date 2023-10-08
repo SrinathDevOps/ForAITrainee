@@ -16,7 +16,7 @@ It handles server-side logic, database interactions, and application-specific pr
 Application servers provide an environment for executing code written in programming languages like Java, Python, or Ruby.
 Example: Tomcat (Java application server), Express.js (Node.js application server).
 Real-Time Scenario: In an e-commerce website, an application server processes user login requests, adds items to a shopping cart, and calculates the total price.
-Database Server:
+Database Server::
 
 A database server is a specialized server that manages and stores structured data, enabling data retrieval, storage, and manipulation.
 It stores data in an organized manner, typically using a relational database management system (RDBMS) like MySQL, PostgreSQL, or SQL Server.
