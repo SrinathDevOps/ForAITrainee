@@ -8,7 +8,7 @@ A web server is a software application or hardware device that handles HTTP requ
 It acts as an intermediary between clients and web applications.
 Web servers are responsible for processing static content and forwarding dynamic requests to application servers.
 Example: Apache HTTP Server, Nginx.
-Real-Time Scenario: Imagine a restaurant menu displayed on a website. The web server serves the menu's static content (images, CSS), while the dynamic part (ordering, pricing) is handled by the application server.
+Real-Time Scenario: Imagine a restaurant menu displayed on a website. The web server serves the menu's static content (images, CSS), while the dynamic part (ordering, pricing) is handled by the application server...
 Application Server:
 
 An application server is a software framework that hosts and executes web applications, business logic, and dynamic content.
