@@ -30,7 +30,7 @@ Application servers execute application-specific code and communicate with datab
 Database servers store structured data and manage data-related operations.
 Together, these servers form the backbone of many web and enterprise applications, working in tandem to deliver web services and dynamic content.
 
-explain this in layman terms
+explain this in layman terms::add
 
 Of course! Let's break it down into simpler terms:
 
